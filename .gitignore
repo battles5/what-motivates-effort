@@ -9,3 +9,7 @@ extract_pdfs*.py
 
 # Ignora presentazione
 presentation/
+
+# Log files
+texput.log
+*.log
