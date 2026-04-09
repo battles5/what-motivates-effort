@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+
+# Ignora dati e testi
+data/
+extracted_texts/
+extract_pdfs*.py
+
+# Ignora presentazione
+presentation/
