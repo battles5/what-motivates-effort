@@ -10,6 +10,9 @@ extract_pdfs*.py
 # Ignora presentazione
 presentation/
 
+# Materiale del corso
+cpurse_material/
+
 # Log files
 texput.log
 *.log
