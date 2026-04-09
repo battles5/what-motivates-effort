@@ -6,8 +6,6 @@ This repository contains the Python code and analytical pipeline used to replica
 
 The replication translates the original Stata pipeline into Python, reproducing the descriptive statistics, treatment comparisons, and structural cost-of-effort estimation (Non-Linear Least Squares and closed-form Minimum Distance with bootstrap standard errors). Beyond replication, the codebase extends the analysis with Causal Forests for heterogeneous treatment effects, quantile regressions, Bayesian posterior inference via Markov Chain Monte Carlo, multiple testing corrections, Gaussian Mixture Models for latent worker types, and Random Forest feature importance.
 
-Note that the raw datasets, LaTeX source files for the presentation, and course materials are not included in this repository. The original data can be obtained from the authors' replication package.
-
 > Disclaimer: this work represents the final project for the MD2SL Master's course in Experiments and Real-World Evidence in Economics (University of Florence and IMT Lucca). There is no claim to originality or academic value; it is purely a didactic exercise within the context of the course.
 
 ## Repository structure and code functionality
